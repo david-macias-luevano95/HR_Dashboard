@@ -37,5 +37,8 @@ Users should be able to filter the list based on any of the available columns.
 
 ![image](images/Capturadash.PNG)
 
+### Full Dashboard in Tableau
+https://public.tableau.com/app/profile/david.macias6237/viz/HR_dashboard_17522583210170/HRSummary
+
 
 
