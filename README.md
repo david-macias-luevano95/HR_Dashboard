@@ -33,3 +33,10 @@ Present how the age correlate with the salary for employees in each department.
 
 Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 Users should be able to filter the list based on any of the available columns.
+
+![image](images/dashboard.png)
+
+![image](images/Capturadash.png)
+
+
+
